@@ -1,5 +1,4 @@
-# boilerplate-nextjs-typescript-cypress-context-casl-husky
-`
+# Boilerplate com NextJS, Material-UI, Typescript, Husky, ContextApi, Cypress, Casl, etc... (Leia o Readme.md)
 
 <h1><br>
 <p align="center">
